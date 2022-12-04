@@ -1,0 +1,7 @@
+PNG TO MP4
+
+ffmpeg.exe -i %04d.png clip.mp4
+
+AVI TO MP4 
+
+ffmpeg -i 2.avi -c:a copy -c:v vp9 -b:v 10000K clip.mp4

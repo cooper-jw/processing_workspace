@@ -1,0 +1,341 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"for",
+				"for\tFor Loop"
+			],
+			[
+				"obe",
+				"objects"
+			],
+			[
+				"clos",
+				"closeBackground"
+			],
+			[
+				"ba",
+				"backgroud_S"
+			],
+			[
+				"Pa",
+				"ParseLayerString"
+			],
+			[
+				"fa",
+				"farBackground_S"
+			],
+			[
+				"re",
+				"return"
+			],
+			[
+				"ob",
+				"objects_S"
+			],
+			[
+				"clo",
+				"closeBackground_S"
+			]
+		]
+	},
+	"buffers":
+	[
+		{
+			"file": "/Users/joe/Desktop/Spam",
+			"settings":
+			{
+				"buffer_size": 284,
+				"encoding": "UTF-8",
+				"line_ending": "Unix",
+				"name": "I think its hilarious u kids talking *** about wra"
+			}
+		},
+		{
+			"file": "sketch_180401a.pde",
+			"settings":
+			{
+				"buffer_size": 311,
+				"line_ending": "Unix"
+			}
+		}
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 179.0,
+		"last_filter": "Package Control: in",
+		"selected_items":
+		[
+			[
+				"Package Control: in",
+				"Package Control: Install Package"
+			],
+			[
+				"Package Control: Ins",
+				"Package Control: Install Package"
+			],
+			[
+				"Snippet: ",
+				"Snippet: bezier"
+			],
+			[
+				"Package Control: ",
+				"Package Control: Install Package"
+			]
+		],
+		"width": 444.0
+	},
+	"console":
+	{
+		"height": 0.0,
+		"history":
+		[
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"expanded_folders":
+	[
+		"/Users/joe/Documents/Processing/sketch_180401a"
+	],
+	"file_history":
+	[
+		"/Users/joe/Library/Application Support/Sublime Text 3/Packages/User/Package Control.sublime-settings",
+		"/Users/joe/Desktop/AI Asg2",
+		"/Users/joe/Desktop/FYP Psuedo",
+		"/Users/joe/Desktop/AGP-Report",
+		"/Users/joe/Desktop/FinalYearTeamProject/.gitignore",
+		"/Users/joe/Desktop/FinalYearTeamProject/Assets/Editor/ReplaceGameObjects.cs",
+		"/Users/joe/Desktop/UtilAdd",
+		"/Users/joe/Desktop/JohnCampbell",
+		"/Users/joe/Desktop/All or Nothing Notes",
+		"/Users/joe/Desktop/FYP Poster",
+		"/Users/joe/Desktop/JavaBayes-0.346/Source/JavaBayes.java",
+		"/Users/joe/Desktop/GroupProjectWindows/Assets/Scripts/UI_Menus/UIController.cs",
+		"/Users/joe/Desktop/Team Project Notes",
+		"/Users/joe/Desktop/GitHubGroup/FinalYearTeamProject/Assets/Scripts/Network/GameNetworkManager.cs",
+		"/Users/joe/Desktop/cardsbj/cards/Assets/CardNetworkManager.cs",
+		"/Users/joe/Desktop/Parts",
+		"/Users/joe/Desktop/GroupProjectWindows/Assets/Scripts/Player/PlayerControl.cs",
+		"/Volumes/U1460012/Game Design n Shit June 2015/New folder/UnityNetworkPractice/UnityNetworkPractice/Assets/UnRibbon.cs",
+		"/Users/joe/Desktop/TeamDrift/Drift/Assets/Modles/Materials/Material #239.mat",
+		"/Users/joe/Desktop/autoexec.cfg",
+		"/Users/joe/Dropbox/PuzzleFPS_Plan.txt",
+		"/Volumes/U1460012/Game Engine Architecture/Assignement/BasicCollector/Source/BasicCollector/BasicCollectorCharacter.cpp",
+		"/Users/joe/Desktop/NetworkingPlan",
+		"/Volumes/U1460012/Website/development.html",
+		"/Volumes/U1460012/Website/index.html",
+		"/Users/joe/Dropbox/MultiplayerRacing/Assets/FlightControl.cs",
+		"/Users/joe/Desktop/MIcTest.cs",
+		"/Users/joe/Dropbox/Public/AirTeam/css/style.css",
+		"/Users/joe/Dropbox/Public/AirTeam/index.html",
+		"/Volumes/BOOTCAMP/Users/Joe/Dropbox/TeamProject/TeamProject/Content/Player.cpp",
+		"/Users/joe/Dropbox/FPS_Game/Assets/Scripts/NetworkScript.cs",
+		"/Users/joe/Desktop/Dale Website Notes",
+		"/Users/joe/Dropbox/University - Year 1/Level1.oel",
+		"/Users/joe/Dropbox/University - Year 1/XML Code Design",
+		"/Users/joe/Dropbox/University - Year 1/Test.oel",
+		"/Users/joe/Dropbox/FPS/FPS GAME TODO LIST.txt",
+		"/Users/joe/Desktop/Waiting For Horus.app/Contents/Data/level1",
+		"/Users/joe/Dropbox/7dfps2013-master/7dfps2013-master/Assets/Scripts/FPSController.cs",
+		"/Users/joe/Dropbox/University - Year 1/Hardware and Networks/Week 3/power - assembly psuedo "
+	],
+	"find":
+	{
+		"height": 23.0
+	},
+	"find_in_files":
+	{
+		"height": 0.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"banner.jpg",
+			"banner"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"selected": 1,
+			"sheets":
+			[
+				{
+					"buffer": 0,
+					"file": "/Users/joe/Desktop/Spam",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 284,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								284,
+								284
+							]
+						],
+						"settings":
+						{
+							"auto_name": "I think its hilarious u kids talking *** about wra",
+							"syntax": "Packages/Text/Plain text.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 1,
+					"type": "text"
+				},
+				{
+					"buffer": 1,
+					"file": "sketch_180401a.pde",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 311,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								214,
+								214
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/processing-sublime-1.0_Processing_1.5.1/Syntax/Processing.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 0,
+					"type": "text"
+				}
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 23.0
+	},
+	"input":
+	{
+		"height": 0.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.exec":
+	{
+		"height": 164.0
+	},
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"pinned_build_system": "Packages/Processing/Build Systems/Processing.sublime-build",
+	"project": "Processing.sublime-project",
+	"replace":
+	{
+		"height": 42.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 150.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}
